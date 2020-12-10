@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**TaylorHo/TaylorHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently I'm a developer of everything a little...
 
-Here are some ideas to get you started:
+* 💻 | Back-End
+* 🎨 | Front-End
+* 📊 | Web Systems
+* ⚛️ | Desktop Apps
+* ☕️ | Mobile Apps
+* 🎮 | Games
+* 🤖 | AI
+* etc.
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social Networks
+
+* [Instagram](https://www.instagram.com/hoffmann_taylor/)
+* [Discord](https://discord.com/users/510580117723152394)
+* [Spotify](https://open.spotify.com/user/ci70wtwdp7muj2j3euu58otqw)
+#
+
+### [Talk to me](https://wa.me/555189582215)
+
+I'm sure I'll answer you
+#
+
+> It's okay to cry. It's okay to run. Just don't give up.
