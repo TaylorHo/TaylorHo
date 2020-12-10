@@ -24,4 +24,6 @@
 I'm sure I'll answer you
 #
 
-> It's okay to cry. It's okay to run. Just don't give up.
+> *It's okay to cry. It's okay to run. Just don't give up.*
+>
+> *Kimetsu no Yaiba*
