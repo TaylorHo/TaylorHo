@@ -2,13 +2,13 @@
 
 ### Currently I'm a developer of everything a little...
 
-* 💻 | Back-End
-* 🎨 | Front-End
-* 📊 | Web Systems
+* 💻 | [Back-End](https://github.com/TaylorHo/react-platform/tree/master/server)
+* 🎨 | [Front-End](https://taylorho.github.io/blog)
+* 📊 | [Web Systems](https://unialcance.com.br)
 * ⚛️ | Desktop Apps
 * ☕️ | Mobile Apps
 * 🎮 | Games
-* 🤖 | AI
+* 🤖 | [AI](https://taylorho.github.io/speak/index.html)
 * etc.
 #
 
