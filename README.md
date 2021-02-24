@@ -1,4 +1,4 @@
-## Hi there 👋 &middot; ![](https://komarev.com/ghpvc/?username=taylorho&color=blueviolet&label=Visitas+ao+Perfil)
+## Hi there 👋 &middot; ![](https://komarev.com/ghpvc/?username=taylorho&color=blueviolet&label=Profile+Views)
 
 ### Currently I'm a developer of everything a little...
 
