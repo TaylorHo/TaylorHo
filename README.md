@@ -15,13 +15,13 @@
   <h3>Mídias Sociais</h3>
   <hr/>
   <div>
-    <a href="https://www.instagram.com/hoffmann_taylor/"><img style="padding-right:20px" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg"/></a>
-    <a href="https://discord.com/users/510580117723152394"><img style="padding-right:20px" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg"/></a>
-    <a href="https://open.spotify.com/user/ci70wtwdp7muj2j3euu58otqw"><img style="padding-right:20px" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111624.svg"/></a>
+    <a href="https://www.instagram.com/hoffmann_taylor/"><img style="padding-right:50px" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg"/></a>&nbsp;
+    <a href="https://discord.com/users/510580117723152394"><img style="padding-right:50px" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg"/></a>&nbsp;
+    <a href="https://open.spotify.com/user/ci70wtwdp7muj2j3euu58otqw"><img style="padding-right:50px" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111624.svg"/></a>&nbsp;
   </div>
   <h3>Algumas Estatísticas 🤩</h3>
   <hr/>
   <img width="410px" src="https://github-readme-stats.vercel.app/api?username=taylorho&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues"/>
-  <br/>
+  <br/><br/>
   <img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylorho&hide=html&layout=compact&theme=tokyonight&count_private=true" />
 </div>
