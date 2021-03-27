@@ -21,7 +21,7 @@
   </div>
   <h3>Algumas Estatísticas 🤩</h3>
   <hr/>
-  <img width="410px" src="https://github-readme-stats.vercel.app/api?username=taylorho&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img width="410px" src="https://github-readme-stats.vercel.app/api?username=taylorho&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues"/>
   <br/>
   <img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylorho&hide=html&layout=compact&theme=tokyonight&count_private=true" />
 </div>
