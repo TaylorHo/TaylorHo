@@ -1,29 +1,27 @@
-## Hi there 👋 &middot; ![](https://komarev.com/ghpvc/?username=taylorho&color=blueviolet&label=Profile+Views)
-
-### Currently I'm a developer of everything a little...
-
-* 💻 | [Back-End](https://github.com/TaylorHo/react-platform/tree/master/server)
-* 🎨 | [Front-End](https://taylorho.github.io/blog)
-* 📊 | [Web Systems](https://unialcance.com.br)
-* ⚛️ | Desktop Apps
-* ☕️ | Mobile Apps
-* 🎮 | Games
-* 🤖 | [AI](https://taylorho.github.io/speak/index.html)
-* etc.
-#
-
-### Social Networks
-
-* [Instagram](https://www.instagram.com/hoffmann_taylor/)
-* [Discord](https://discord.com/users/510580117723152394)
-* [Spotify](https://open.spotify.com/user/ci70wtwdp7muj2j3euu58otqw)
-#
-
-### [Talk to me](https://wa.me/555189582215)
-
-I'm sure I'll answer you
-#
-
-> *It's okay to cry. It's okay to run. Just don't give up.*
->
-> *Kimetsu no Yaiba*
+<div style="text-align: center;">
+  <h1>Olá Devs 🛸 &middot; <img src="https://komarev.com/ghpvc/?username=taylorho&color=brightgreen&label=Visitas+Ao+Perfil" /></h1>
+  <h3>Atualmente, eu desenvolvo de tudo um pouco...</h3>
+  <hr/>
+  <ul>
+    <li>💻 | Back-End</li>
+    <li>🎨 | Front-End</li>
+    <li>📊 | Web Systems</li>
+    <li>⚛️ | Desktop Apps</li>
+    <li>☕️ | Mobile Apps</li>
+    <li>🎮 | Games</li>
+    <li>🤖 | AI</li>
+    <li>E mais...</li>
+  </ul>
+  <h3>Mídias Sociais</h3>
+  <hr/>
+  <div>
+    <a href="https://www.instagram.com/hoffmann_taylor/"><img style="padding-right:12px" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg"/></a>
+    <a href="https://discord.com/users/510580117723152394"><img style="padding-right:12px" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg"/></a>
+    <a href="https://open.spotify.com/user/ci70wtwdp7muj2j3euu58otqw"><img style="padding-right:12px" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111624.svg"/></a>
+  </div>
+  <h3>Algumas Estatísticas 🤩</h3>
+  <hr/>
+  <img width="410px" src="https://github-readme-stats.vercel.app/api?username=taylorho&show_icons=true&theme=dark"/>
+  <br/>
+  <img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylorho&hide=html&layout=compact&theme=dark" />
+</div>
