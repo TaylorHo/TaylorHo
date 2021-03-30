@@ -23,6 +23,6 @@
   <p align="center">
     <a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=taylorho&show_icons=true&theme=tokyonight&count_private=true&custom_title=Status+No+GitHub"/></a>
   <a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=taylorho&hide=html&layout=compact&theme=tokyonight&count_private=true&custom_title=Linguagens+Mais+Usadas"/></a>
-  <a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=taylorho&layout=compact&theme=tokyonight&custom_title=Tempo+Gasto+Na+Última+Semana"/></a>
+  <a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=taylorho&theme=tokyonight&custom_title=Tempo+Gasto+Na+Última+Semana"/></a>
   </p>
 </p>
