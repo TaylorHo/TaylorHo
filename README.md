@@ -22,7 +22,13 @@
   <h2 align="center">Algumas Estatísticas 🤩</h2>
   <p align="center">
     <a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=taylorho&show_icons=true&theme=tokyonight&count_private=true&custom_title=Status+No+GitHub"/></a>
-  <a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=taylorho&hide=html&layout=compact&theme=tokyonight&count_private=true&custom_title=Linguagens+Mais+Usadas"/></a>
+  <a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=taylorho&hide=html&layout=compact&theme=tokyonight&count_private=true&langs_count=4&custom_title=Linguagens+Mais+Usadas"/></a>
   <a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=taylorho&theme=tokyonight&custom_title=Tempo+Gasto+Na+Última+Semana&layout=compact"/></a>
   </p>
 </p>
+
+<hr/>
+
+<h3 align="center">
+   <a href="https://www.buymeacoffee.com/TaylorHo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" alt="Buy Me A Coffee" style="height: 21px !important;width: 187px !important;" ></a>
+</h3>
