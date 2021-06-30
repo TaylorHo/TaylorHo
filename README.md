@@ -1,10 +1,10 @@
 <p align="center">
   <h1 align="center">Olá Devs 🛸 &middot; <img src="https://komarev.com/ghpvc/?username=taylorho&color=brightgreen&label=Visitas+Ao+Perfil" /></h1>
   <div align="center">
-    <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TaylorHo" /></h1>
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taylorho.ta@gmail.com" /></h1>
-    <img src="https://img.shields.io/badge/-Discord-5C6BC0?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/510580117723152394" /></h1>
-    <img src="https://img.shields.io/static/v1?label=Lv.&style=flat-square&message=18&color=000" /></h1>
+    <a href="https://github.com/TaylorHo"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" /></a>
+    <a href="mailto:taylorho.ta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>
+    <a href="https://discord.com/users/510580117723152394"><img src="https://img.shields.io/badge/-Discord-5C6BC0?style=flat-square&logo=Discord&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=Lv.&style=flat-square&message=18&color=000" /></a>
   </div>
   <h2 align="center">Atualmente, eu desenvolvo de tudo um pouco...</h2>
   <div align="center">
