@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hi Devs 🛸 &middot; <img src="https://komarev.com/ghpvc/?username=taylorho&color=brightgreen&label=Visitas+Ao+Perfil" /></h1>
+  <h1 align="center">Hi Devs 🛸 &middot; <img src="https://komarev.com/ghpvc/?username=taylorho&color=brightgreen&label=Profile+Visits" /></h1>
   <div align="center">
     <a href="https://github.com/TaylorHo"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" /></a>
     <a href="https://hackerone.com/taylorho"><img src="https://img.shields.io/badge/-Hackerone-494649?style=flat-square&logo=Hackerone&logoColor=white" /></a>
