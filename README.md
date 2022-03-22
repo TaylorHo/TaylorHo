@@ -16,6 +16,10 @@
   </div>
   <br/>
   <div align="center">
+    <a href="https://taylorho.github.io/"><img src="https://img.shields.io/badge/-View%20My%20Portfolio%20(Portuguese)-0a192f?style=for-the-badge&logo=GitHub&logoColor=white&logoWidth=40" /></a>
+  </div>
+  <br/>
+  <div align="center">
     <a href="https://g.dev/taylorho"><img src="https://img.shields.io/badge/-View%20My%20Google%20Developer%20Profile-2d8bff?style=for-the-badge&logo=Google&logoColor=white&logoWidth=40" /></a>
   </div>
   <br/>
