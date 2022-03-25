@@ -6,6 +6,7 @@
     <a href="mailto:taylorho.ta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>
     <a href="https://discord.com/users/510580117723152394"><img src="https://img.shields.io/badge/-Discord-5C6BC0?style=flat-square&logo=Discord&logoColor=white" /></a>
     <a href="https://twitter.com/hoffxhoff"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/taylor-hoffmann-696820235/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/static/v1?label=Lv.&style=flat-square&message=18&color=000" /></a>
   </div>
   <h2 align="center">Who am I...</h2>
