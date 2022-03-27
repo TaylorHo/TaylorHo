@@ -11,9 +11,9 @@
   </div>
   <h2 align="center">Who am I...</h2>
   <div align="center">
-    <p align="center">I'm currently a FullStack developer, but I study and work daily in order to become a recognized game developer.</p>
-    <p align="center">Creating 2D indie games, I hope to take the life. I love it, and it's just all that I want <3</p>
-    <h3>Hope I can liven up people's lives with my games<br/>(which I like to call <i>"my art"</i>)</h3>
+    <p align="center">I'm currently a Full Stack developer, studying daily to improve my skills, and i'm currently reading <i>"Refactoring - Improving the Design of Existing Code"</i>, book by Martin Fowler.</p>
+    <p align="center">I love exercising my creativity and <strong>I'm always creating something new.</strong></p>
+    <h3>Coding is my art, and I love it 💜</h3>
   </div>
   <br/>
   <div align="center">
