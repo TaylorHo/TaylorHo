@@ -11,7 +11,7 @@
   </div>
   <h2 align="center">Who am I...</h2>
   <div align="center">
-    <p align="center">I'm currently a Full Stack developer, studying daily to improve my skills, and i'm currently reading <i>"Refactoring - Improving the Design of Existing Code"</i>, book by Martin Fowler.</p>
+    <p align="center">I'm currently an Ethical Hacker, Full Stack Developer and Researcher from Brazil. My goals are to become one of the greatest hackers of the world, and create my own research foundation. One day I'll get there!</p>
     <p align="center">I love exercising my creativity and <strong>I'm always creating something new.</strong></p>
     <h3>Coding is my art, and I love it 💜</h3>
   </div>
