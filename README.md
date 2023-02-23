@@ -5,7 +5,7 @@
     <a href="https://play.google.com/store/apps/dev?id=7759735844468416963"><img src="https://img.shields.io/badge/-Playstore-494649?style=flat-square&logo=GooglePlay&logoColor=white" /></a>
     <a href="mailto:taylor@hotay.dev"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>
     <a href="https://discord.com/users/510580117723152394"><img src="https://img.shields.io/badge/-Discord-5C6BC0?style=flat-square&logo=Discord&logoColor=white" /></a>
-    <a href="https://twitter.com/xhxfo"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" /></a>
+    <a href="https://hotay.dev"><img src="https://img.shields.io/badge/-Personal%20Blog-241F31?style=flat-square&logo=GNOME-Terminal&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/hoffmann-taylor/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/static/v1?label=Lv.&style=flat-square&message=19&color=000" /></a>
   </div>
