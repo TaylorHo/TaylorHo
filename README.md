@@ -17,7 +17,7 @@
   </div>
   <br/>
   <div align="center">
-    <a href="https://portfolio.hotay.dev/"><img src="https://img.shields.io/badge/-View%20My%20Personal%20Blog%20-20c74c?style=for-the-badge&logo=microdotblog&logoColor=white&logoWidth=40" /></a>
+    <a href="https://me.hotay.dev/"><img src="https://img.shields.io/badge/-View%20My%20Personal%20Blog%20-20c74c?style=for-the-badge&logo=microdotblog&logoColor=white&logoWidth=40" /></a>
   </div>
   <br/>
   <div align="center">
