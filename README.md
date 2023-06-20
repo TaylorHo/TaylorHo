@@ -26,8 +26,8 @@
   <br/>
   <h2 align="center">Some stats 🤩</h2>
   <p align="center">
-    <a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=taylorho&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/></a>
-  <a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=taylorho&hide=html&layout=compact&theme=tokyonight&count_private=true&langs_count=4&include_all_commits=true"/></a>
-  <a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=taylorho&theme=tokyonight&layout=compact&custom_title=Week%20Stats&langs_count=8"/></a>
+    <a href="#"><img width="400px" src="https://github-readme-stats-iai2xsw18-taylorho.vercel.app/api?username=taylorho&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/></a>
+  <a href="#"><img width="400px" src="https://github-readme-stats-iai2xsw18-taylorho.vercel.app/api/top-langs?username=taylorho&hide=html&layout=compact&theme=tokyonight&count_private=true&langs_count=4&include_all_commits=true"/></a>
+  <a href="#"><img width="400px" src="https://github-readme-stats-iai2xsw18-taylorho.vercel.app/api/wakatime?username=taylorho&theme=tokyonight&layout=compact&custom_title=Week%20Stats&langs_count=8"/></a>
   </p>
 </p>
