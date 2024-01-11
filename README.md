@@ -26,7 +26,7 @@
   <br/>
   <h2 align="center">Some stats 🤩</h2>
   <p align="center">
-    <a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=taylorho&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/></a>
-    <a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=taylorho&theme=tokyonight&layout=compact&custom_title=Week%20Stats&langs_count=10"/></a>
+    <a href="https://wakatime.com"><img width="500px" src="https://wakatime.com/share/@taylorho/d6293ec2-c4d7-4bfc-9dad-6e71bf231958.png" /></a>
+    <a href="https://wakatime.com"><img width="500px" src="https://wakatime.com/share/@taylorho/8e2c0ce5-ba07-4ff5-a911-ce83f060a9f5.png" /></a>
   </p>
 </p>
