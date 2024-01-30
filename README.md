@@ -26,7 +26,7 @@
   <br/>
   <h2 align="center">Some stats 🤩</h2>
   <p align="center" width="100%">
-    <a href="https://wakatime.com/share/@taylorho/d6293ec2-c4d7-4bfc-9dad-6e71bf231958.png" target="_blank"><img width="48%" src="https://wakatime.com/share/@taylorho/d6293ec2-c4d7-4bfc-9dad-6e71bf231958.png" /></a>
-    <a href="https://wakatime.com/share/@taylorho/8e2c0ce5-ba07-4ff5-a911-ce83f060a9f5.png" target="_blank"><img width="48%" src="https://wakatime.com/share/@taylorho/8e2c0ce5-ba07-4ff5-a911-ce83f060a9f5.png" /></a>
+    <a href="https://wakatime.com/share/@taylorho/d5b6586e-59d6-4b92-b8f8-ed94757306ff.svg" target="_blank"><img width="48%" src="https://wakatime.com/share/@taylorho/d6293ec2-c4d7-4bfc-9dad-6e71bf231958.png" /></a>
+    <a href="https://wakatime.com/share/@taylorho/b680ba42-7d2b-4122-97e4-5b67b6f006b7.svg" target="_blank"><img width="48%" src="https://wakatime.com/share/@taylorho/3e310409-e23b-4974-aca3-7cc3438949c3.png" /></a>
   </p>
 </p>
