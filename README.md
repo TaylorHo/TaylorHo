@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hi Everyone 🛸 &middot; <img src="https://komarev.com/ghpvc/?username=taylorho&color=brightgreen&label=Profile+Visits" /></h1>
+  <h1 align="center">Hi Everyone 🛸</h1>
   <div align="center">
     <a href="https://github.com/TaylorHo"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" /></a>
     <a href="https://play.google.com/store/apps/dev?id=7759735844468416963"><img src="https://img.shields.io/badge/-Playstore-494649?style=flat-square&logo=GooglePlay&logoColor=white" /></a>
@@ -7,7 +7,7 @@
     <a href="https://discord.com/users/510580117723152394"><img src="https://img.shields.io/badge/-Discord-5C6BC0?style=flat-square&logo=Discord&logoColor=white" /></a>
     <a href="https://me.hotay.dev"><img src="https://img.shields.io/badge/-Personal%20Blog-241F31?style=flat-square&logo=GNOME-Terminal&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/hoffmann-taylor/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/static/v1?label=Lv.&style=flat-square&message=20&color=000" /></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=Lv.&style=flat-square&message=21&color=000" /></a>
   </div>
   <h2 align="center">Who am I...</h2>
   <div align="center">
